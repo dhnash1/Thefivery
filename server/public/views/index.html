@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Angular Routing Magic!</title>
+    <link rel="stylesheet" href="../styles/bootstrap.min.css" />
+    <link rel="stylesheet" href="../styles/style.css" />
+    <script src="../vendor/angular.min.js" type="text/javascript"></script>
+    <script src="../vendor/angular-route.min.js" type="text/javascript"></script>
+    <script src="../scripts/client.js" type="text/javascript"></script>
+  </head>
+  <body ng-app="app">
+    <h1>THE HIGH FIVE FACTORY</h1>
+
+    <ul>
+      <li><a href="#!/index">Home</a></li>
+          <h3>Pick a character to try to high five 'em!</h3>
+      <li><a href="#!/gita">Gita</a></li>
+      <li><a href="#!/sponge">Spongebob</a></li>
+      <li><a href="#!/todd">The Todd</a></li>
+    </ul>
+
+
+
+    <main ng-view ></main>
+  </body>
+</html>

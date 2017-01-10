@@ -1,0 +1,25 @@
+{
+  "name": "ng-routesandfactories",
+  "version": "1.0.0",
+  "description": "In this assignment, you'll be making a making an app to high five fictional characters. However, each fictional character's skill with high-fiving will be randomly generated. And each high five may or may not work!",
+  "main": "index.js",
+  "dependencies": {
+    "angular-route": "^1.6.1",
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhnash1/ng-routesandfactories.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhnash1/ng-routesandfactories/issues"
+  },
+  "homepage": "https://github.com/dhnash1/ng-routesandfactories#readme"
+}

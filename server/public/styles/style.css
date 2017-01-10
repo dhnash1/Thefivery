@@ -1,0 +1,18 @@
+img{
+  width:100px;
+  height:100px;
+}
+
+body{
+  text-align: center;
+}
+
+.form-control{
+  height : 300px;
+  width : 300px;
+  margin: 0px , auto;
+}
+
+ul{
+  list-style: none;
+}
